@@ -133,19 +133,18 @@ AC:
 
 - should open in a new tab
 
-#### 7. As a user I would like to see a load more button when the first result of organisations appear.
+#### 7. As a Galaxy 5s mobile user I would like to see the basic resposive version of the page
+
+- the organisation cards should be in one column and aligned with the input field
+### Nice to have
+
+#### 8. As a user I would like to see a load more button when the first result of organisations appear.
 
 AC:
 
 - the button caption should refer to the result: if we specify 6 organisations to get in one batch and we have a total of 138 organisation we should see "Load 6 more of 138"
 - when I click to the button the next batch of the organisation should be loaded and appear on the screen
 - I should be able to click on load more as long as we have data that we can fetch
-
-#### 8. As a Galaxy 5s mobile user I would like to see the basic resposive version of the page
-
-- the organisation cards should be in one column and aligned with the input field
-### Nice to have
-
 #### 9. As a user I would like to get a singe link that points to the result page directly
 
 - It should be something like this: https://yourdomain.com/search?query=health&perpage=6&currentpage=2
