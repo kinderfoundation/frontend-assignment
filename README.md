@@ -19,7 +19,6 @@ Your solutions should be in a private repo. Since this repo is public, you can n
 In your private repo settings, add the following GitHub users as collaborators, so that they can review your code:
 
 - [Bram Pelgrom](https://github.com/mobypicture)
-- [Szabolcs Farkas](https://github.com/S4n3L)
 
 ### 4. Development
 
